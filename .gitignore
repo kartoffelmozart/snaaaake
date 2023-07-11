@@ -1,1 +1,3 @@
 venv/
+snake.db
+__pycache__
